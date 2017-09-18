@@ -1,0 +1,25 @@
+<!DOCTYPE>
+<html>
+  <body>
+    <h1>Hello World</h1>
+    <p>This is my first paragraph.</p>
+    <p>This is my second paragraph.<br>And this is a diffrent line, BUT still part of the same paragraph.</p>
+    <p style="text-align:center">this is centered paragraph</p>
+<h2 style="color:Tomato">This is an H2 heading, colored RED</h2></h2> 
+<h3 style="background-color:powderblue";>This is an H3 heading with a background color of powder blue</h3>
+<h5 style="font family:verdana";>This is an H5 heading in verdana font </h5>
+<a href="http://www.wlavikings.org/"> WLA website </a>
+<p title="I'm a tooltip">I'm a tooltip hover over me</p>
+<p style="font-size:160%";> This is a paragraph sized to 160% </p>
+<hr>
+<pre>
+  My Bonnie lies over the ocean
+
+My Bonnie lies over the sea
+
+My Bonnie lies over the ocean
+
+Oh, bring back my Bonnie to me.
+</pre>
+  </body>
+</html>
